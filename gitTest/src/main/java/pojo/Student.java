@@ -7,5 +7,6 @@ package pojo;
  */
 public class Student {
 
+  private int id;
 
 }
