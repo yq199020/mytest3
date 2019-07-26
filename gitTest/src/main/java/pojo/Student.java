@@ -12,4 +12,9 @@ public class Student {
   private double price;
 
 
+  public Student(int id) {
+    this.id = id;
+  }
+
+
 }
