@@ -8,5 +8,8 @@ package pojo;
 public class Student {
 
   private int id;
+  private double icard;
+  private double price;
+
 
 }
